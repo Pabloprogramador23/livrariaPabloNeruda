@@ -1,0 +1,1 @@
+create table livros_seq(next_val bigint(20));
